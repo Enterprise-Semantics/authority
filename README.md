@@ -2,6 +2,10 @@
 
 > **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
 
+# Authority
+
+> **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
+
 # concept-authority
 
 > Authority, Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
